@@ -25,7 +25,7 @@ cd /server && npm start
 Window 2: Start Svelte compiler:
 
 `````
-cd /client && npm run dev
+cd /client/cities && npm run dev
 `````
 
 Finally, go to 
