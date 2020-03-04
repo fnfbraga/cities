@@ -3,13 +3,13 @@
 
 Simple search example with NodeJS and Svelte
 
-To install the node server go ahead and hit npm i under the ***server*** directory
+To install the node server go ahead and install all the node packages under the ***server*** directory
 
 ````
 cd /server && npm i && cd ..
 ````
 
-After this completes installing all the node packages navigate to the ***client*** forder and run 
+After this completes installing navigate to the ***client*** forder and run 
 ````
 cd /client && npm i && cd ..
 `````
