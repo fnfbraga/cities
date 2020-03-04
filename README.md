@@ -11,7 +11,7 @@ cd /server && npm i && cd ..
 
 After this completes installing navigate to the ***client*** forder and run 
 ````
-cd /client && npm i && cd ..
+cd /client/cities && npm i && cd ..
 `````
 
 Then open 2 terminal windows (1 to run the server in DEV mode and another one for the Svelte Compiler)
