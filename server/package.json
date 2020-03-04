@@ -1,0 +1,32 @@
+{
+  "name": "alpiq",
+  "version": "1.0.0",
+  "description": "code test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fnfbraga/alpiqtest.git"
+  },
+  "author": "Frederico Braga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fnfbraga/alpiqtest/issues"
+  },
+  "homepage": "https://github.com/fnfbraga/alpiqtest#readme",
+  "dependencies": {
+    "app-root-path": "^3.0.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "fuse.js": "^3.4.6",
+    "morgan": "^1.9.1",
+    "winston": "^3.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
